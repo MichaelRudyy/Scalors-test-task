@@ -1,0 +1,6 @@
+de\aboutyou\holders\ProductHolder.class
+de\aboutyou\Main.class
+de\aboutyou\parsers\ProductPageParser.class
+de\aboutyou\parsers\SearchURLBuilder.class
+de\aboutyou\parsers\ProductListPageParser.class
+de\aboutyou\xml\XMLWritter.class
